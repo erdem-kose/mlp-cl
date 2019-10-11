@@ -15,7 +15,7 @@ This work is on Mex with Matlab
 # Publication
 Please citate our article if you use this work in your project or publication.
 
-**[A new spectral estimation-based feature extraction method for vehicle classification in distributed sensor networks]**(http://journals.tubitak.gov.tr/elektrik/issues/elk-19-27-2/elk-27-2-33-1807-49.pdf)
+[A new spectral estimation-based feature extraction method for vehicle classification in distributed sensor networks](http://journals.tubitak.gov.tr/elektrik/issues/elk-19-27-2/elk-27-2-33-1807-49.pdf)
 
 **TeX Citation Template:**
 
